@@ -10,9 +10,11 @@ Me chamo Vinícius Costa e atualmente moro em Brasília-DF
 ### Minhas especialidades
 - Java - 1 ano
 - MySQL - 1 ano
+- Python - 2 anos
 - HTML - 2 anos
 - CSS - 2 anos
 - JavaScript - 1 ano
 - Bootstrap - 6 meses
 - React - 6 meses
 - React Native - 6 meses
+
