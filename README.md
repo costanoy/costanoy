@@ -59,8 +59,6 @@ Desenvolvo sistemas, sites e jogos, além de atuar como Analista de NOC.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costanoy&layout=compact&theme=dark&hide_border=true&bg_color=0D1412&title_color=2DE08A&text_color=D7E2DD" width="38%" />
 </p>
 
-> ⚠️ Se os cards acima não carregarem, é uma instabilidade comum do serviço `github-readme-stats` (não é erro seu). Basta atualizar a página do GitHub depois de alguns minutos — as imagens são geradas ao vivo, então não precisa mexer em nada aqui.
-
 ---
 
 ### `~/contato`
