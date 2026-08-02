@@ -30,7 +30,7 @@
 }
 ```
 
-Desenvolvo sistemas e sites, atuo como Analista de NOC cuidando de monitoramento e disponibilidade, e antes de tudo isso já era Game Designer — o que trouxe minha base em lógica, interação e experiência do usuário. Atendo remoto.
+Desenvolvo sistemas, sites e jogos, além de atuar como Analista de NOC.
 
 ---
 
@@ -38,9 +38,15 @@ Desenvolvo sistemas e sites, atuo como Analista de NOC cuidando de monitoramento
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -51,18 +57,49 @@ Desenvolvo sistemas e sites, atuo como Analista de NOC cuidando de monitoramento
 ### `~/stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=costanoy&show_icons=true&hide_border=true&bg_color=0D1412&title_color=2DE08A&icon_color=2DE08A&text_color=D7E2DD" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costanoy&layout=compact&hide_border=true&bg_color=0D1412&title_color=2DE08A&text_color=D7E2DD" />
+  <img src="https://github-readme-stats.vercel.app/api?username=costanoy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1412&title_color=2DE08A&icon_color=2DE08A&text_color=D7E2DD&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costanoy&layout=compact&theme=dark&hide_border=true&bg_color=0D1412&title_color=2DE08A&text_color=D7E2DD" width="38%" />
 </p>
+
+> ⚠️ Se os cards acima não carregarem, é uma instabilidade comum do serviço `github-readme-stats` (não é erro seu). Basta atualizar a página do GitHub depois de alguns minutos — as imagens são geradas ao vivo, então não precisa mexer em nada aqui.
 
 ---
 
 ### `~/contato`
 
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://portfolio.cyberhat.com.br">
+        <img src="https://img.icons8.com/ios-filled/2DE08A/000000/domain.png" width="30" /><br>
+        <sub><b>Portfólio</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:vinicostamaga@outlook.com">
+        <img src="https://img.icons8.com/ios-filled/50/2DE08A/new-post.png" width="30" /><br>
+        <sub><b>E-mail</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://wa.me/5561981374048">
+        <img src="https://img.icons8.com/ios-filled/50/2DE08A/whatsapp.png" width="30" /><br>
+        <sub><b>WhatsApp</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/costanoy">
+        <img src="https://img.icons8.com/ios-filled/50/2DE08A/github.png" width="30" /><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://portfolio.cyberhat.com.br"><img src="https://img.shields.io/badge/Portfólio-2DE08A?style=flat-square&labelColor=0d1412" /></a>
-  <a href="mailto:vinicostamaga@outlook.com"><img src="https://img.shields.io/badge/Email-2DE08A?style=flat-square&logo=microsoftoutlook&logoColor=black&labelColor=0d1412" /></a>
-  <a href="https://wa.me/5561981374048"><img src="https://img.shields.io/badge/WhatsApp-2DE08A?style=flat-square&logo=whatsapp&logoColor=black&labelColor=0d1412" /></a>
+  <sub>✦ aberto a oportunidades remotas ✦</sub>
 </p>
 
-<p align="center"><sub>© Vinícius Costa Magalhães</sub></p>
+<br>
+
+<p align="center">© Vinícius Costa Magalhães</p>
