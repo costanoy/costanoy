@@ -50,8 +50,6 @@ Desenvolvo sistemas, sites e jogos, além de atuar como Analista de NOC.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-> ⚙️ Ajuste os badges acima para bater exatamente com as tecnologias que você usa no dia a dia.
-
 ---
 
 ### `~/stats`
